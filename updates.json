@@ -1,5 +1,10 @@
 [
   {
+    "collection": "bettermeans.com",
+    "slug": "front-open_enterprise_governance_model",
+    "updated": "2012-10-10T03:33:48Z"
+  },
+  {
     "collection": "enlightenedstructure.org",
     "slug": "Software_Zero",
     "updated": "2012-10-10T03:31:20Z"
@@ -18,10 +23,5 @@
     "collection": "enlightenedstructure-org.via.forkthecommons.org",
     "slug": "Software_Zero",
     "updated": "2012-08-20T04:33:07Z"
-  },
-  {
-    "collection": "bettermeans.com",
-    "slug": "front-open_enterprise_governance_model",
-    "updated": "2012-08-18T22:53:18Z"
   }
 ]
