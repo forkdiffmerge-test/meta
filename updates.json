@@ -1,6 +1,11 @@
 [
   {
     "collection": "en.wikipedia.org",
+    "slug": "wiki-XDI",
+    "updated": "2012-10-25T07:26:38Z"
+  },
+  {
+    "collection": "en.wikipedia.org",
     "slug": "wiki-Technological_singularity",
     "updated": "2012-10-25T07:19:17Z"
   },
