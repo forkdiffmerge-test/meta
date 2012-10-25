@@ -1,6 +1,11 @@
 [
   {
     "collection": "en.wikipedia.org",
+    "slug": "wiki-Technological_singularity",
+    "updated": "2012-10-25T07:19:17Z"
+  },
+  {
+    "collection": "en.wikipedia.org",
     "slug": "wiki-Age_of_Enlightenment",
     "updated": "2012-10-23T05:16:41Z"
   },
@@ -18,11 +23,6 @@
     "collection": "emergentbydesign.com",
     "slug": "2012-01-16-intentcasting-an-epic-vision-how-to-bootstrap-creative-economy-3-0",
     "updated": "2012-09-07T22:58:07Z"
-  },
-  {
-    "collection": "en.wikipedia.org",
-    "slug": "wiki-Technological_singularity",
-    "updated": "2012-08-21T06:42:40Z"
   },
   {
     "collection": "enlightenedstructure-org.via.forkthecommons.org",
